@@ -28,4 +28,4 @@
 | Nov 1 | Introduction, ML Breadth and Behavioral |  [Lecture 1](lectures/ML_Interviewing_Day_1.pdf) |
 | Nov 2 | LeetCoding and ML Coding |  [Lecture 2](lectures/ML_Interviewing_Day_2.pdf) |
 | Nov 8 | ML Depth |  [Lecture 3](lectures/ML_Interviewing_Day_3.pdf) [Guest Lecture-Sanket](lectures/Guest_Lecture_Sanket.pdf) |
-| Nov 9 | ML Design |  [Lecture 4](lectures/ML_Interviewing_Day_4.pdf) |
+| Nov 9 | ML Design |  [Lecture 4](lectures/ML_Interviewing_Day_4.pdf) [Guest Lecture-Deepanshu](lectures/Guest_Lecture_Deepanshu.pdf)|
